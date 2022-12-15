@@ -17,6 +17,9 @@ The following are the main temperature differences between the months of June an
 - The above statement is also true for maximum temperatures, as June has a maximum temperature of 85°F, while December got a maximum temperature of 83°F. 
 - Nevertheless, December could prove to be a less stable month when it comes to a minimum temperature. While June has a minumum temperature that is only ten degrees away from the average temperature (64°F), December has a minimum temperature 15 degrees colder from the average temperature (56°F). 
 
+![june_temps](https://user-images.githubusercontent.com/113153777/207976925-0247a5ec-cf29-4be6-a297-440e6b6ba700.png)
+![dec_temps](https://user-images.githubusercontent.com/113153777/207976957-f238ac7d-0141-470c-83d6-e733e6a19ca6.png)
+
 ## Summary
 Overall, the results show that the temperature trends for June and December are more or less similar. And, while the only problem might be minimum temperatures during December, the average and maximum temperatures show stable weather. 
 
